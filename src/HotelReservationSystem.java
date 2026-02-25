@@ -5,6 +5,7 @@ import java.util.Scanner;
 import java.sql.Statement;
 import java.sql.ResultSet;
 
+// Application development using core java and jdbc  
 public class HotelReservationSystem {
     private static final String url = "jdbc:mysql://localhost:3306/hotel_db";
     private static final String username = "root";
